@@ -18,4 +18,6 @@
   
   git merge feature/1.0.20180418
   
+  git push -u origin develop
+  
   git branch -d feature/1.0.20180418
